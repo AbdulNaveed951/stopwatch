@@ -1,0 +1,42 @@
+body{
+    
+    padding-top: 30px;
+background-image: url(download.jpg);
+background-size:cover ;
+    text-align: center;
+
+}
+
+
+h1{
+    color: purple;
+    display: inline-block;
+    background-color: #fff;
+    width: 120px;
+}
+button
+{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button
+{
+    border-radius: 50%;  
+}
+button:hover
+{
+    background-color: rgba(33, 47, 63);
+}
+h2
+{
+    color: rebeccapurple;
+    font-size: 40px;
+}
